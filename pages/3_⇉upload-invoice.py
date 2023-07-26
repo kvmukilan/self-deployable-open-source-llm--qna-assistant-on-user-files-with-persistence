@@ -29,6 +29,9 @@ from langchain.document_loaders.csv_loader import CSVLoader
 from langchain.vectorstores import FAISS
 import tempfile
 from langchain.document_loaders.image import UnstructuredImageLoader
+from langchain.memory import ConversationBufferMemory
+from langchain.chains import ConversationalRetrievalChain
+from htmlTemplates import css, bot_template, user_template
 
 
 

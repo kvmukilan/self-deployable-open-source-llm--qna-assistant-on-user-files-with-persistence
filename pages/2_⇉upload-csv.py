@@ -52,8 +52,8 @@ st.write(css, unsafe_allow_html=True)
 from streamlit_extras.colored_header import colored_header
 
 colored_header(
-    label="Welcome to  Q&A Bot for PDF",
-    description="Upload a PDF and ask questions about it, or if you have already uploaded a PDF, ask questions about it.",
+    label="Welcome to  Q&A Bot for CSV",
+    description="Upload a CSV and ask questions about it, or if you have already uploaded a CSV, ask questions about it.",
     color_name="violet-70",
 )
 
