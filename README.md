@@ -73,12 +73,9 @@ Special thanks to the open-source community for their contributions and the deve
 
 If you have any questions, issues, or suggestions, feel free to [create an issue](https://github.com/kvmukilan/self-deployable-open-source-llm--qna-assistant-on-user-files-with-persistence/issues) or contact the project maintainer:
 
-Maintainer: [Your Name](https://github.com/kvmukilan)
-Email: yourname@example.com
+Maintainer: [Mukilan](https://github.com/kvmukilan)
+Email: kvmukilan@gmail.com
 
 Happy questioning!
-```
 
-Please make sure to replace `[Your Name](https://github.com/kvmukilan)` and `yourname@example.com` in the Contact section with your appropriate information.
 
-Feel free to modify and improve this README.md file to better suit your project's needs. If you have any further questions or need more assistance, feel free to ask!
