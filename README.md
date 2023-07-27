@@ -1,6 +1,6 @@
 # self-deployable-open-source-llm--qna-assistant-on-user-files-with-persistence
 
-Sure! Below is the README.md file for your GitHub repository:
+
 
 ```markdown
 # Self-Deployable Open Source LLM Q&A Assistant on User Files with Persistence
