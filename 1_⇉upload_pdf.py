@@ -35,7 +35,7 @@ os.environ["OPENAI_API_KEY"] = "sk-bH9cKrrWmo4vMol1Kmn9T3BlbkFJ4gszwAGMmbwpuvl7p
 
 # Streamlit app code
 st.set_page_config(
-    page_title='Q&A Bot for PDF',
+    page_title='Q&A Bot for PDFs',
     page_icon='🔖',
     layout='wide',
     initial_sidebar_state='auto',
