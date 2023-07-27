@@ -39,7 +39,7 @@ from htmlTemplates import css, bot_template, user_template
 
 # Streamlit app code
 st.set_page_config(
-    page_title='Q&A Bot for PDF',
+    page_title='Q&A Bot for PDFs',
     page_icon='🔖',
     layout='wide',
     initial_sidebar_state='auto',
