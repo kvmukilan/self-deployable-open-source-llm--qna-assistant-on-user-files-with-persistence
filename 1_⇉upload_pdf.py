@@ -31,7 +31,7 @@ from langchain.chains import ConversationalRetrievalChain
 
 chat_history = []
 
-os.environ["OPENAI_API_KEY"] = "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"
+
 
 # Streamlit app code
 st.set_page_config(
