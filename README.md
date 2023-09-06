@@ -42,7 +42,7 @@ pip install -r requirements.txt
 3. Run the assistant: Execute the main script to start the question-answering assistant:
 
 ```bash
-python main.py
+streamlit run 1_⇉upload_pdf.py
 ```
 
 4. Ask questions: Use the command-line interface to ask questions about the contents of your local files. The assistant will provide relevant and accurate answers based on the context.
